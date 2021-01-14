@@ -1,14 +1,15 @@
 # 목차
 1. 그리디 알고리즘 정리
 
-2. 배운 것
-  (1) <a href="#1339">Python Lambda, Map, List Comprehension</a>
+2. <a href="#learn">배운 것</a>
+2.1. <a href="#1339">Python Lambda, Map, List Comprehension</a>
 
 # 𝐆𝐫𝐞𝐞𝐝𝐲 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦
 
 
 ---
 
+<a name="learn"></a>
 # 𝐈 𝐋𝐞𝐚𝐫𝐧𝐞𝐝...
 <a name="1339"></a>
 ### 1339 단어 수학
