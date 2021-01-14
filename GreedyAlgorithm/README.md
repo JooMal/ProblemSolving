@@ -1,7 +1,11 @@
-# 𝐆𝐫𝐞𝐞𝐝𝐲 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦
+# 목차
 1. 그리디 알고리즘 정리
+
 2. 배운 것
-  1. <a href="#1339">Python Lambda, Map, List Comprehension</a>
+  (1) <a href="#1339">Python Lambda, Map, List Comprehension</a>
+
+# 𝐆𝐫𝐞𝐞𝐝𝐲 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦
+
 
 ---
 
