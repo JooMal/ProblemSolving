@@ -3,7 +3,7 @@
 
 2. <a href="#learn">배운 것</a>  
 
-2.1. <a href="#1339">Python Lambda, Map, List Comprehension</a>  
+  2.1. <a href="#1339">Python Lambda, Map, List Comprehension</a>  
 
 # 𝐆𝐫𝐞𝐞𝐝𝐲 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦
 
